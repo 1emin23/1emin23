@@ -1,6 +1,6 @@
 <div align="center">
 
-# Merhaba, ben 1emin23 👋
+# Merhaba, ben Mehmet Emin
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=0782CE&center=true&vCenter=true&width=620&lines=Modern+web+aray%C3%BCzleri+geli%C5%9Ftiriyorum;React+%7C+Vite+%7C+Tailwind+CSS;Fikirleri+%C3%A7al%C4%B1%C5%9Fan+%C3%BCr%C3%BCnlere+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum" alt="Typing SVG" /></a>
 

@@ -77,17 +77,6 @@ This repository is part of my ongoing **C# / .NET and Entity Framework learning 
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1emin23&show_icons=true&theme=transparent&hide_border=true&title_color=0782CE&icon_color=139A86&cache_seconds=86400" alt="GitHub İstatistikleri" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1emin23&layout=compact&theme=transparent&hide_border=true&title_color=0782CE&cache_seconds=86400" alt="En Çok Kullanılan Diller" />
-
-</div>
-
----
 
 <div align="center">
 

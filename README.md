@@ -8,7 +8,7 @@
 
 </div>
 
-## 🇹🇷 Hakkımda
+## Hakkımda
 
 Bilgisayar Mühendisliği mezuniyet aşamasında **%100 İngilizce eğitim alıyorum.**
 
@@ -22,7 +22,7 @@ Bu repository de **C# / .NET ve Entity Framework öğrenme sürecimin bir parça
 
 ---
 
-## 🇬🇧 About Me
+## About Me
 
 I'm currently in the final stage of my **Computer Engineering degree** where I study in a **100% English-medium program**.
 
